@@ -91,4 +91,9 @@ some_list.append(1)
 await state.update_data(some_list=some_list)
 ```
 ![alt-текст](https://github.com/HeyArtem/UAI_lesson_15_tgbot_scraping/blob/master/picture_for_readme/1.png "Exemple 1")
-![alt-текст](https://github.com/HeyArtem/UAI_lesson_15_tgbot_scraping/blob/master/picture_for_readme/2.png "Exemple 2" https://github.com/HeyArtem/UAI_lesson_15_tgbot_scraping/blob/master/picture_for_readme/3.png "Exemple 3")
+![alt-текст](https://github.com/HeyArtem/UAI_lesson_15_tgbot_scraping/blob/master/picture_for_readme/2.png "Exemple 2")
+![alt-текст](https://github.com/HeyArtem/UAI_lesson_15_tgbot_scraping/blob/master/picture_for_readme/3.png "Exemple 3")
+
+![alt-текст][logo]
+[logo]: https://github.com/HeyArtem/UAI_lesson_15_tgbot_scraping/blob/master/picture_for_readme/4.png "Exemple 4"
+
