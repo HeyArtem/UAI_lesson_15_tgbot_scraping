@@ -1,7 +1,7 @@
 # Telegram-bot. <br/>Home work for UAI, lesson 15.
 
 
-![alt-текст](https://github.com/HeyArtem/dixy_scraping/blob/main/picture_dixy.png "Текст заголовка логотипа 1")
+![alt-текст](https://github.com/HeyArtem/UAI_lesson_15_tgbot_scraping/blob/master/picture_for_readme/main.png "Текст заголовка логотипа 1")
 
 
 
